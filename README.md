@@ -1,5 +1,5 @@
 # Indian State And City List Object
-###  Indian State And City List Breakdown, To Easily Use In Your Projects Instead Of Manually  Prototyping
+###  Indian State And City List Breakdown, To Easily Use In Your Projects Instead Of Manual  Prototyping
 
 ```
 var statesList = {
